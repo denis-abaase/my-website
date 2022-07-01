@@ -1,0 +1,61 @@
+*{
+    margin:0;
+    padding: opx;
+}
+
+body{
+    background-color: #ddd;
+    color: #fff;
+}
+
+table{
+    background-color: #fff;
+    color:#111;
+    border-collapse: collapse;
+    border: 5px #a1e;
+}
+
+div{
+    padding: 5px 5px;
+    margin: 5px 5px;
+    color: #111;
+    background-color: #ddd;
+}
+
+section{
+    padding: 3px 2px;
+    background-color: #111;
+    border: #111 5px;
+    border-radius: 5px;
+    height: 50%;
+}
+
+li{
+    background-color: #000;
+    color:#0a0;
+    padding: 15px 5px;
+    display: inline-block;
+    margin-left: 10%;
+
+}
+
+form{
+    margin: 10% 10%;
+    left:50%;
+    Top:50%;
+    display: block;
+    background-color: #fff;
+    color: #000;
+    padding: 25px 25px;
+}
+
+input{
+    padding: 5px 5px;
+    display: block;
+    padding: 25px 25px;
+    background-color: #efe;
+    color: #711;
+    font-size: large;
+    font-weight: 100;
+}
+
